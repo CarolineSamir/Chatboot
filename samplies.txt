@@ -1,0 +1,12 @@
+'how are you?',
+'have a good day',
+'talk to you later',
+'ttyl',
+'who designed you',
+'name',
+'hello',
+'good day',
+"what's up",
+'how can i call you',
+'phone number',
+'phone no'
